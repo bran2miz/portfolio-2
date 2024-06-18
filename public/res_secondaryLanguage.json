@@ -1,0 +1,130 @@
+{
+    "basic_info": {
+      "description_header": "Pozdravy a pozdravy",
+      "description": "Ahoj! Jmenuji se Brandon Mizutani. V současné době žiji v Seattlu. Než jsem se sem přestěhoval, žil jsem v Los Angeles, chodil jsem do školy a pracoval jsem v postprodukci. V průběhu minulého roku jsem měl pocit, že moje kariéra v postprodukci stagnuje, a nebyl jsem si jistý, zda je filmový a televizní průmysl něčím, čeho bych chtěl být součástí. Měl jsem čas přemýšlet o svých osobních zájmech a vášních. Začal jsem si pamatovat různé části svého života a najednou jsem si vzpomněl na své předchozí zkušenosti s vývojem webu. Od střední a střední školy jsem se začal učit html a CSS. Během svého bakalářského studia jsem si dokonce vytvořil vlastní webovou aplikaci v kurzu informatiky. Vždy jsem měl zájem o vývoj webových stránek a pamatoval jsem si, jak jsem byl nadšený, když web fungoval správně a vypadal krásně. To byl nakonec hnací motor pro připojení k Code Fellows. Moje cesta v Code Fellows nebyla snadná, ale ohromně mě posunula. Doufám, že od Code Fellows dosáhnu kariéry vývojáře softwaru s důrazem na python, pracuji s podobně smýšlejícími jednotlivci, kteří mají stejnou vášeň pro kódování.",
+      "section_name": {
+        "about": "O mnie",
+        "projects": "Projekty",
+        "skills": "Umiejętności",
+        "experience": "Doświadczenie"
+      }
+    },
+    "projects": [
+      {
+        "title": "Gallery of Horns",
+        "startDate": "2021",
+        "description": "Toto je moje nejnovější aplikace, kterou jsem vytvořil během svého kurzu 301 v Code Fellows. Ukazuje použití stavu a rekvizit, stejně jako bootstrap.",
+        "images": [
+          "images/portfolio/gallery-of-horns/p1.png",
+          "images/portfolio/gallery-of-horns/p2.png"
+        ],
+        "url": "https://beastly-horned.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "BootStrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2021",
+        "description": "Během mého kurzu 201 to byl obtížný projekt. Salmon Cookies je aplikace, která uživatelům umožňuje přidávat města, minimální a maximální počet zákazníků a průměrný prodaný soubor cookie. Prostřednictvím formuláře a obsluhy událostí a posluchače může uživatel vidět své nové město pod výchozími městy a přepočítá celkový počet souborů cookie obchodu a celkový počet prodaných souborů cookie pro každé město.",
+        "images": [
+          "images/portfolio/salmon-cookies/p1.png",
+          "images/portfolio/salmon-cookies/p2.png"
+        ],
+        "url": "https://bran2miz.github.io/cookie-stand/",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          }
+        ]
+      },
+      {
+        "title": "Mad Library",
+        "startDate": "2021",
+        "description": "Toto je můj závěrečný projekt pro můj kurz 201 v Code Fellows. Vytvořili jsme mvp s názvem „Mad Librarians“, webovou stránku za účelem vytváření uživatelských příběhů. Obsahuje zábavné příběhy s uživatelským vstupem, umožňuje ukládat uvedené příběhy do místního úložiště, kreativní loga a obrázky, na které lze klikat.",
+        "images": [
+          "images/portfolio/final-project/p1.png",
+          "images/portfolio/final-project/p2.jpg"
+        ],
+        "url": "https://ponceedi000.github.io/mad-librarians/html/homepage.html",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Code Fellows",
+        "title": "Student/ Software Developer",
+        "years": "05.2021 - obecnie",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Bootstrap",
+          "HTML5",
+          "ReactJS",
+          "CSS3"
+        ]
+      },
+      {
+        "company": "Post-Production",
+        "title": "Na volné noze",
+        "years": "04.2017 - 09.2020",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Bootstrap",
+          "HTML5",
+          "ReactJS",
+          "CSS3"
+        ]
+      },
+      {
+        "company": "Loyola Marymount University",
+        "title": "Student/BA Asijsko -pacifická studia s vedlejší obor filmová/televizní studia",
+        "years": "09.10 - 05.14",
+        "mainTech": [
+          "BA Asijská tichomořská studia s vedlejší ve filmových/ televizních studiích"
+        ],
+        "technologies": [
+          "Asijská pacfická studia",
+          "Teorie filmu a televize"
+        ]
+      }
+    ]
+  }

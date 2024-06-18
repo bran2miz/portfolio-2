@@ -1,0 +1,179 @@
+{
+    "basic_info": {
+      "description_header": "Welcome!",
+      "description": "My name is Brandon Mizutani and I am a dedicated software developer based in Seattle, WA, with a robust background in advanced software development. Holding a Certificate in Advanced Software Development in Python from Code Fellows and a Bachelor of Arts in Asian Pacific Studies from Loyola Marymount University, I leverage my expertise to create innovative and efficient applications. My technical skills span across various languages and frameworks including Python, JavaScript, React, and Django. I recent, notable projects include developing an e-commerce storefront using React and Redux, a Django-based To-Do App focusing on secure login and task storage, and an e-commerce app named Insta Dealz. In my professional journey, I have contributed significantly as a Lead TA and Tutor at Code Fellows, assisting students with programming concepts and enhancing their technical proficiency. Passionate about coding, I continue to apply my knowledge to develop successful computer and mobile applications.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Mad Library",
+        "startDate": "2021",
+        "description": "This is my final project for my 201 course at Code Fellows. We created a mvp entitled `Mad Librarians`, a website for the purpose of creating user stories. It contains fun stories with user input, allow saving said stories in local storage, creative logos and clickable pictures to those stories.",
+        "images": [
+          "images/portfolio/final-project/p1.png",
+          "images/portfolio/final-project/p2.jpg"
+        ],
+        "url": "https://ponceedi000.github.io/mad-librarians/html/homepage.html",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          }
+        ]
+      },
+      {
+        "title": "Celestiality",
+        "startDate": "2021",
+        "description": "This is my final project for my 301 course at Code Fellows. We created an app entitled `Celestiality`. It is designed to consolidate all the astrological information on the web onto a single app.The user can enter their date of birth and based on their input they are presented with a beautifully rendered page that displays relevant information to that date. 5 API’s are used to display the user's daily horoscope, their zodiac sign, a historical event that happened on their day of birth. There is also a journal feature that the app will also store this information for them to access at a later date." ,
+        "images": [
+          "images/portfolio/final-project-301/home.png",
+          "images/portfolio/final-project-301/main.png",
+          "images/portfolio/final-project-301/journal.png",
+          "images/portfolio/final-project-301/aboutus.png"
+        ],
+        "url": "https://celestiality.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "BootStrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Battle Stocks",
+        "startDate": "2022",
+        "description": "This is my 401 midterm python project entitled Battle Stocks. It was a project designed as a stock trade app, that prompted the user to enter commands to buy and/or sell stocks, withdraw and/or deposit money, and plot the purchased stocks on a graph. And I specifically made contributions to the user prompts, input  validations, unit tests, and colorama.",
+        "images": [
+          "images/portfolio/midterm-project-401/battle-stocks.png",
+          "images/portfolio/midterm-project-401/matplotlib.png"
+        ],
+        "url": "https://github.com/battlestocks",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Insta Dealz",
+        "startDate": "2022",
+        "description": "This is my 401 final python project entitled Insta Dealz. It was a project designed as an e-commerce app that would allow shoppers to purchase items from a variety of categories. The user would have their own profile, adding and deleting items from their cart. The user would be able to also have a search bar that would allow the user to search for their desired items from the library.",
+        "images": [
+          "images/portfolio/final-project-401/home.png",
+          "images/portfolio/final-project-401/details.png",
+          "images/portfolio/final-project-401/cart.png",
+          "images/portfolio/final-project-401/checkout.png"
+        ],
+        "url": "https://insta-dealz-l9xugiz65-insta-deals.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "REACT"
+          },
+          {
+            "class": "devicon-bulma-plain",
+            "name": "Bulma"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          }
+        ]
+      }
+      
+    ],
+    "experience": [ {
+      "company": "Code Fellows",
+      "title": "Lead TA",
+      "years": "09.2023 - Present",
+      "mainTech": [
+        "Python","JavaScript"
+
+      ],
+      "technologies": [
+        "ReactJs", "Django", "DjangoX", "Bulma", "Bootstrap", "Material UI", "SASS", "Node.js", "TailwindCSS", "EC2", "S3", "Lambda", "DynamoDB", "MongoDB", "VSCode", "GitHub", "Terminal", "Express", "Agile", "Auth0", "BigO", "Socket.io", "SQL", "Linux" 
+      ]
+    },
+      {
+        "company": "Code Fellows",
+        "title": "Tutor/TA",
+        "years": "06.2022 - 08.2023",
+        "mainTech": [
+          "Python","JavaScript"
+
+        ],
+        "technologies": [
+          "ReactJs", "Django", "DjangoX", "Bulma", "Bootstrap", "Material UI", "SASS", "Node.js", "TailwindCSS", "EC2", "S3", "Lambda", "DynamoDB", "MongoDB", "VSCode", "GitHub", "Terminal", "Express", "Agile", "Auth0", "BigO", "Socket.io", "SQL", "Linux" 
+        ]
+      },
+      {
+        "company": "Code Fellows",
+        "title": "Student/Software Developer",
+        "years": "05.2021 - 05.2022",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Bootstrap",
+          "HTML5",
+          "ReactJS",
+          "CSS3"
+        ]
+      },
+      {
+        "company": "Post-Production",
+        "title": "Freelance",
+        "years": "04.2017 - 09.2020",
+        "mainTech": [
+          "CeltX"
+        ],
+        "technologies": [
+          "Final Cut Pro",
+          "Adobe"
+        ]
+      },
+      {
+        "company": "Loyola Marymount University",
+        "title": "Student/BA Asian Pacific Studies w/ a minor in Film/Television Studies",
+        "years": "09.10 - 05.14",
+        "mainTech": [
+          "BA Asian Pacific Studies w/ a minor in Film/Television Studies"
+        ],
+        "technologies": [
+          "Asian Pacfic Studies",
+          "Film and Television Theory"
+        ]
+      }
+    ]
+  }
