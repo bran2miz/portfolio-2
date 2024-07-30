@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Brandon Mizutani",
-    "titles": [ "Graduate of Code Fellows | Graduate of Loyola Marymount University | Software Developer | Python and JavaScript tutor |" ],
+    "titles": [ "Graduate of Code Fellows | Graduate of Loyola Marymount University | Software Developer | Python and JavaScript Tutor " ],
     "social": [
       {
         "name": "github",
@@ -20,6 +20,12 @@
         "url": "mailto:bran2miz@gmail.com",
         "iconType": "font-awesome",
         "class": "fas fa-envelope"
+      },
+      {
+        "name": "calendar",
+        "url": "https://calendly.com/bran2miz/60min",
+        "iconType": "font-awesome",
+        "class": "fa fa-calendar"
       }
     ],
     "image": "brandonpic.jpg"
@@ -57,6 +63,11 @@
         "level": "60"
       },
       {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "60"
+      },
+      {
         "name": "AWS",
         "class": "devicon-amazonwebservices-plain-wordmark",
         "level": "60"
@@ -69,6 +80,26 @@
       {
         "name": "Node.js",
         "class": "devicon-nodejs-plain",
+        "level": "60"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain",
+        "level": "60"
+      },
+      {
+        "name": "Django REST framework",
+        "class": "devicon-djangorest-plain",
+        "level": "60"
+      },
+      {
+        "name": "Material UI",
+        "class": "devicon-materialui-plain",
+        "level": "60"
+      },
+      {
+        "name": "Kaggle",
+        "class": "devicon-kaggle-original",
         "level": "60"
       }
     ]
