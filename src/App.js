@@ -43,10 +43,11 @@ class App extends Component {
 
   componentDidMount = () => {
     this.loadSharedData();
-    this.applyPickedLanguage(
-      window.$primaryLanguage,
-      window.$secondaryLanguageIconId
-    );
+    // this.applyPickedLanguage(
+    //   window.$primaryLanguage,
+    //   window.$secondaryLanguageIconId
+    // );
+    this.loadResumeFromPath('res_primaryLanguage.json');
   }
 
   loadResumeFromPath = (path) => {
