@@ -1,9 +1,9 @@
 {
     "basic_info": {
       "description_header": "Welcome!",
-      "description": "My name is Brandon Mizutani and I am a dedicated software developer based in Seattle, WA, with a robust background in advanced software development. Holding a Certificate in Advanced Software Development in Python from Code Fellows and a Bachelor of Arts in Asian Pacific Studies from Loyola Marymount University, I leverage my expertise to create innovative and efficient applications. My technical skills span across various languages and frameworks including Python, JavaScript, React, and Django. I recent, notable projects include developing an e-commerce storefront using React and Redux, a Django-based To-Do App focusing on secure login and task storage, and an e-commerce app named Insta Dealz. In my professional journey, I have contributed significantly as a Lead TA and Tutor at Code Fellows, assisting students with programming concepts and enhancing their technical proficiency. Passionate about coding, I continue to apply my knowledge to develop successful computer and mobile applications.",
+      "description": "My name is Brandon Mizutani, and I am a dedicated software developer based in Seattle, WA, with a strong background in advanced software development. I hold a Certificate in Advanced Software Development in Python from Code Fellows and a Bachelor of Arts in Asian Pacific Studies from Loyola Marymount University. My expertise spans multiple languages and frameworks, including Python, JavaScript, React, and Django. I have worked on notable projects such as developing an e-commerce storefront using React and Redux, a Django-based To-Do App with a focus on secure login and task storage, and an e-commerce app named Insta Dealz. In my professional journey, I have significantly contributed as a Lead TA and Tutor at Code Fellows, where I assisted students with programming concepts and enhanced their technical proficiency.Passionate about coding, I continually apply my knowledge to develop innovative and efficient applications. I am committed to creating successful computer and mobile applications that meet the needs of users and drive technological advancement.",
       "section_name": {
-        "about": "About me",
+        "about": "About Me",
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience"
@@ -109,7 +109,137 @@
             "name": "Docker"
           }
         ]
+      },
+      {
+        "title": "Todo App",
+        "startDate": "2024",
+        "description": "To-Do App is a task management application that allows users to efficiently manage their daily tasks. The app features bearer authentication via the server, ensuring secure user authentication and authorization. Depending on the user's role and capabilities, they can access the to-do list and settings, add new tasks, delete tasks, and mark tasks as completed. This robust functionality provides users with the tools they need to stay organized and manage their tasks effectively. ",
+        "images": [
+          "images/portfolio/todo/screenshot-1.png",
+          "images/portfolio/todo/screenshot-2.png",
+          "images/portfolio/todo/screenshot-3.png",
+          "images/portfolio/todo/screenshot-4.png",
+          "images/portfolio/todo/screenshot-5.png"
+        ],
+        "url": "https://brandont-mizutani-todo-app.netlify.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "REACT"
+          },
+          {
+            "class": "devicon-materialui-plain colored",
+            "name": "Material UI"
+          },
+          {
+            "class": "devicon-babel-plain",
+            "name": "Babel"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostGreSQL"
+          },
+          {
+            "class": "devicon-jest-plain",
+            "name": "Jest"
+          },
+          {
+            "class": "devicon-json-plain",
+            "name": "jsonwebtoken"
+          },
+          {
+            "class": "devicon-reactrouter-plain",
+            "name": "React Router Dom"
+          },
+          {
+            "class": "devicon-vite-original",
+            "name": "Vite"
+          }
+        ]
+      },
+      {
+        "title": "StoreFront",
+        "startDate": "2024",
+        "description": "Storefront App is a dynamic e-commerce application that allows users to explore and purchase items across multiple categories. Users can browse products, add them to their cart, and proceed to checkout. The app features a responsive user interface, with options for users to filter products by category, view detailed product information, and manage their shopping carts efficiently. Storefront also includes features like inventory management and real-time updates to ensure a smooth shopping experience.",
+        "images": [
+          "images/portfolio/store-front/screenshot-1.png",
+          "images/portfolio/store-front/screenshot-2.png",
+          "images/portfolio/store-front/screenshot-3.png",
+          "images/portfolio/store-front/screenshot-4.png",
+          "images/portfolio/store-front/screenshot-5.png"
+        ],
+        "url": "https://brandon-mizutani-storefront.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "REACT"
+          },
+          {
+            "class": "devicon-materialui-plain colored",
+            "name": "Material UI"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostGreSQL"
+          },
+          {
+            "class": "devicon-jest-plain",
+            "name": "Jest"
+          },
+          {
+            "class": "devicon-redux-original",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-reactrouter-plain",
+            "name": "React Router Dom"
+          },
+          {
+            "class": "devicon-vite-original",
+            "name": "Vite"
+          }
+        ]
+      },
+
+      {
+        "title": "RESTyrant",
+        "startDate": "2024",
+        "description": "Restyrant App is a web application designed to manage restaurant operations and customer interactions. The backend was developed using Django Rest Framework and deployed to AWS EC2, with the frontend hosted separately. The two components were integrated by configuring environment variables through a .env file, and permissions were carefully managed to ensure secure communication between the frontend and backend. This setup provides a robust and scalable solution for restaurant management needs.",
+        "images": [
+          "images/portfolio/restyrant/screenshot-1.png",
+          "images/portfolio/restyrant/screenshot-2.png",
+          "images/portfolio/restyrant/screenshot-3.png",
+          "images/portfolio/restyrant/screenshot-4.png"
+        ],
+        "url": "http://restyrant-app.s3-website-us-west-1.amazonaws.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "REACT"
+          },
+          {
+            "class": "devicon-materialui-plain colored",
+            "name": "Material UI"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-vite-original",
+            "name": "Vite"
+          }
+        ]
       }
+      
       
     ],
     "experience": [ {
